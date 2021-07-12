@@ -25,3 +25,4 @@ Thomas, M.; Smith, R. T.; O’Boyle, N. M.; de Graaf, C.; Bender, A. Comparison 
 <li>Deep Docking: OpenEye/FRED与深度学习联用实现超大规模虚拟筛选</li>
 <p>对代表性化合物先用FRED进行docking计算，获得打分值；接着用深度学习进行训练，获得可以区分打分高、低的深度学习模型；用该深度学习模型对超大规模数据库进行虚拟筛，然后再用docking进行对上一步的化合物进行对接虚拟筛选。</p>
 <p>Gentile, F.; Agrawal, V.; Hsing, M.; Ton, A.-T.; Ban, F.; Norinder, U.; Gleave, M. E.; Cherkasov, A. Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery. ACS Cent. Sci. 2020, 6 (6), 939–949. https://doi.org/10.1021/acscentsci.0c00229.</p>
+<p>代码获取：https://github.com/vibudh2209/D2</p>
