@@ -12,6 +12,8 @@ Thomas, M.; Smith, R. T.; O’Boyle, N. M.; de Graaf, C.; Bender, A. Comparison 
 
 <p>ROCS是基于形状的技术，理论上你只有一个已知的活性化合物就可以建立形状query进行增强学习训练。而FRED分子对接技术则仅要求有一个蛋白，可以没有任何已知的活性化合物，就可以增强学习训练实现从头分子设计。</p>
 
+<p>相关的代码实现见：https://github.com/MorganCThomas/MolScore</p>
+
 <li>关于深度学习结构设计开源软件REINVENT</li>
 <p>Ligandscout、ROCS与FRED等代表的药效团、形状与分子对接技术在增强学习中作为打分函数，而REINVENT则是深度增强学习从头设计的基础框架，由AZ开发、开源且免费。</p>
 <p>Olivecrona, M.; Blaschke, T.; Engkvist, O.; Chen, H. Molecular De-Novo Design through Deep Reinforcement Learning. J. Cheminform. 2017, 9 (1), 48. https://doi.org/10.1186/s13321-017-0235-x.</p>
